@@ -217,4 +217,4 @@ two-stack queue, and when amortized O(1) is not enough, is in the article:
 
 ## Author
 
-Written by Emmimal P Alexander at [EmiTechLogic](https://emitechlogic.com/).
+Written by Emmimal P Alexander at [EmiTechLogic](https://emitechlogic.com/). 
